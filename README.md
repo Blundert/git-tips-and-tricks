@@ -61,7 +61,11 @@ git checkout <branch_name> -f
 git remote add origin <LINK>
 ```
 
+### remove remote
 
+```
+git remote rm <REMOTE NAME>
+```
 
 ## List of super commands
 
